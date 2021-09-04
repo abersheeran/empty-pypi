@@ -1,2 +1,3 @@
-# empty-pypi
-empty pypi package
+```python
+python setup.py bdist_wheel upload
+```
