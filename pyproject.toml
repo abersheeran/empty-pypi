@@ -1,0 +1,11 @@
+[project]
+name = "kjango"
+version = "0.0.0rc0"
+description = ""
+authors = [
+    {name = "abersheeran", email = "me@abersheeran.com"},
+]
+dependencies = []
+classifiers = [
+    "Development Status :: 1 - Planning",
+]
